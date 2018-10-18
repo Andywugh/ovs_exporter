@@ -2,7 +2,7 @@ package inttest
 
 import (
 	"testing"
-	"github.com/joatmon08/ovs_exporter/utils"
+	"github.com/Andywugh/ovs_exporter/utils"
 	"strconv"
 )
 

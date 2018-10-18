@@ -1,0 +1,11 @@
+package: github.com/Andywugh/ovs_exporter
+import:
+- package: github.com/Sirupsen/logrus
+  repo: git@github.com:/sirupsen/logrus
+  vcs: git
+  version: master
+- package: github.com/fsouza/go-dockerclient
+- package: github.com/prometheus/client_golang
+  subpackages:
+  - prometheus
+- package: github.com/socketplane/libovsdb

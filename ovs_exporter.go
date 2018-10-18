@@ -6,7 +6,7 @@ import (
 	"flag"
 	"github.com/Sirupsen/logrus"
 	"net/http"
-	"github.com/joatmon08/ovs_exporter/openvswitch"
+	"github.com/Andywugh/ovs_exporter/openvswitch"
 )
 
 const (

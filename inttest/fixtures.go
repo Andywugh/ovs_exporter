@@ -2,7 +2,7 @@ package inttest
 
 import (
 	"github.com/Sirupsen/logrus"
-	"github.com/joatmon08/ovs_exporter/utils"
+	"github.com/Andywugh/ovs_exporter/utils"
 	"time"
 	"errors"
 	"testing"
